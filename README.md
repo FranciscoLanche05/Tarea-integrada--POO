@@ -2,7 +2,7 @@
 
 **Escuela Politécnica Nacional** **Escuela de Formación de Tecnólogos** **Asignatura:** Programación Orientada a Objetos (POO)  
 **Profesor:** Ing. Yadira Franco MSc.  
-**Estudiante:** [Tu Nombre y Apellido]
+**Estudiante:** Francisco Lanche
 
 ---
 
